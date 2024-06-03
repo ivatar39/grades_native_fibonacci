@@ -1,5 +1,5 @@
 name: grades_native_fibonacci
-description: "A new Flutter FFI plugin project."
+description: "Test FFI plugin project that uses native code for computation."
 version: 0.0.1
 repository: "https://github.com/ivatar39/grades_native_fibonacci"
 
