@@ -1,7 +1,7 @@
 name: grades_native_fibonacci
 description: "A new Flutter FFI plugin project."
 version: 0.0.1
-homepage:
+repository: "https://github.com/ivatar39/grades_native_fibonacci"
 
 environment:
   sdk: '>=3.4.1 <4.0.0'
